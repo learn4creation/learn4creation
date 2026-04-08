@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @learn4creation
+ Hi, I’m Dr. Paawan Sharma @learn4creation
 - 👀 I’m interested in machine vision, pattern recognition and applications of machine learning.
 - 🌱 I’m looking to collaborate on pattern recognition, computer vision using multimodal data.
 - 📫 I can be reached at psgcpdpu at gmail dot com
